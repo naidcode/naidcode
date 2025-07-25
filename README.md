@@ -1,41 +1,18 @@
-# 👋 Hey there, I'm Nahid Pasha
+# 💫 About Me:
+👋 Hey there, I'm Nahid Pasha<br>🌐 Web Designer | 📱 Aspiring Full Stack Developer | 💡 AI + Web Integration Enthusiast<br>I'm Nahid Pasha, a passionate and self-driven web designer with a strong focus on building responsive, modern websites using WordPress, HTML, CSS, and JavaScript. Currently, I’m on a journey to become a top 10% full-stack web developer—learning JavaScript, React.js, Node.js, and how to integrate AI into web development. I believe that mastering skills is more important than degrees, and I'm building my career around that philosophy.<br><br>🚀 What I’m Working On<br>A complete transformation from front-end to full-stack development.<br>Learning how to combine AI and automation with modern web projects.<br>Building responsive, user-focused websites with excellent design and performance.<br>Creating portfolio projects to showcase practical knowledge and growth.<br>🛠️ Tech Stack<br>Languages: HTML, CSS, JavaScript (in progress)<br>Frameworks: React.js (learning), Node.js (learning)<br>CMS: WordPress<br>Tools: Git & GitHub, VS Code, Figma<br>Others: SEO optimization, responsive design, clean UI/UX<br>📚 Current Learning Plan<br>🗓️ Following a structured roadmap to master full-stack development.<br>📖 Practicing daily coding challenges and building mini-projects.<br>📦 Understanding APIs, backend logic, and database connections.<br>🤖 Exploring AI tools and libraries for web enhancement.<br>📈 Goals<br>🏆 Land a high-paying remote web developer job.<br>🧠 Be in the top 10% of developers through skill, not just certification.<br>🔗 Build a personal brand around web and AI integration.<br>📈 Goals<br>🏆 Land a high-paying remote web developer job.<br>🧠 Be in the top 10% of developers through skill, not just certification.<br>🔗 Build a personal brand around web and AI integration.<br>💬 “Learning by doing, building with purpose.”<br>If you're on the same journey or want to collaborate, feel free to connect!<br>
 
-### 🌐 Web Designer | 📱 Aspiring Full Stack Developer | 💡 AI + Web Integration Enthusiast
 
-I'm Nahid Pasha, a passionate and self-driven web designer with a strong focus on building responsive, modern websites using WordPress, HTML, CSS, and JavaScript. Currently, I’m on a journey to become a top 10% full-stack web developer—learning JavaScript, React.js, Node.js, and how to integrate AI into web development. I believe that mastering skills is more important than degrees, and I'm building my career around that philosophy.
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@nahidpasha01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naidcode.dev@gmail.com) 
 
-### 🚀 What I’m Working On
-- A complete transformation from front-end to full-stack development.
-- Learning how to combine AI and automation with modern web projects.
-- Building responsive, user-focused websites with excellent design and performance.
-- Creating portfolio projects to showcase practical knowledge and growth.
-
-### 🛠️ Tech Stack
-- **Languages:** HTML, CSS, JavaScript (in progress)
-- **Frameworks:** React.js (learning), Node.js (learning)
-- **CMS:** WordPress
-- **Tools:** Git & GitHub, VS Code, Figma
-- **Others:** SEO optimization, responsive design, clean UI/UX
-
-### 📚 Current Learning Plan
-- 🗓️ Following a structured roadmap to master full-stack development.
-- 📖 Practicing daily coding challenges and building mini-projects.
-- 📦 Understanding APIs, backend logic, and database connections.
-- 🤖 Exploring AI tools and libraries for web enhancement.
-
-### 📲 Social Presence
-- 🔗 Instagram: [@nahidpasha01](https://www.instagram.com/nahidpasha01)
-- 💼 Portfolio site: Coming soon...
-
-### 📈 Goals
-- 🏆 Land a high-paying remote web developer job.
-- 🧠 Be in the top 10% of developers through skill, not just certification.
-- 🔗 Build a personal brand around web and AI integration.
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=naidcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=naidcode&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naidcode&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+[![](https://visitcount.itsvg.in/api?id=naidcode&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> 💬 “Learning by doing, building with purpose.”  
-> If you're on the same journey or want to collaborate, feel free to connect!
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
