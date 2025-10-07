@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there, I'm Nahid Pasha<br> Welcome to my GITHUB ☺️
+👋 Hey there, I'm Nahid Pasha<br> Welcome to my Github Profile ☺️
 
 
 ## 🌐 Socials:
