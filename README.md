@@ -1,5 +1,5 @@
 <!-- Wavy Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=250&font=Montserrat&section=header&text=Nahid%20Pasha⭐&fontSize=40&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:F4A460&height=250&section=header&text=Nahid%20Pasha⭐&fontSize=42&fontColor=ffffff&fontAlignY=40&fontAlign=50&font=Poppins)
 
 ---
 
@@ -17,32 +17,26 @@ Hi, my name is **Nahid Pasha**, welcome to my GitHub profile.
 
 ### 📊 Contributions & Streaks
 <p align="start">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naidcode&show_icons=true&theme=merko&hide_border=true&title_color=00FF88&icon_color=00FF88&text_color=ffffff&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naidcode&theme=merko&hide_border=true&background=0D1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=naidcode&show_icons=true&theme=radical&hide_border=false&title_color=800020&icon_color=800020&text_color=000000&bg_color=FFDAB9" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
 <p align="start">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidcode&layout=compact&theme=merko&hide_border=true&title_color=00FF88&text_color=ffffff&bg_color=0D1117" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidcode&layout=compact&theme=radical&hide_border=false&title_color=800020&text_color=000000&bg_color=FFDAB9" />
 </p>
-
----
-
-### 🟩 Contribution Graph
-![Nahid’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=naidcode&bg_color=0D1117&color=00FF88&line=00FF88&point=FFFFFF&area=true&hide_border=true)
 
 ---
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naidcode&theme=matrix&no-frame=true&margin-w=5&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naidcode&theme=flat-square&no-frame=true&margin-w=5&row=1&title_color=800020&icon_color=800020&bg_color=FFDAB9" />
 </p>
 
 ---
 
 ### 👀 Profile Visits
 <p align="start">
-  <img src="https://komarev.com/ghpvc/?username=naidcode&color=00FF88&style=for-the-badge&label=PROFILE+VISITS" />
+  <img src="https://komarev.com/ghpvc/?username=naidcode&color=800020&style=for-the-badge&label=PROFILE+VISITS&bg=FFDAB9" />
 </p>
