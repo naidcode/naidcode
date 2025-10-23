@@ -46,7 +46,3 @@ Hi, my name is **Nahid Pasha**, welcome to my GitHub profile.
 <p align="start">
   <img src="https://komarev.com/ghpvc/?username=naidcode&color=00FF88&style=for-the-badge&label=PROFILE+VISITS" />
 </p>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=200&section=footer)
