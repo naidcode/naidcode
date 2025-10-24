@@ -1,35 +1,60 @@
-<!-- Wavy Animated Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:800020,100:F4A460&height=250&section=header&text=Nahid%20Pasha⭐&fontSize=42&fontColor=ffffff&fontAlignY=40&fontAlign=50&font=Poppins)
+<!-- Professional Header with Wavy Background -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:283593,100:3949AB&height=200&section=header&text=Nahid%20Pasha%๋࣭⭑&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&fontFamily=san-sarif%20New" alt="Header" />
+</div>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=283593&center=true&vCenter=true&width=435&lines=Frontend+Developer;Welcome+to+my+GitHub+Profile" alt="Typing SVG" />
+</p>
+
+<div align="center">
+  
+  [![Profile Views](https://komarev.com/ghpvc/?username=naidcode&color=283593&style=flat-square&label=Profile+Views)](https://github.com/naidcode)
+  
+</div>
 
 ---
 
-### 👋 Hi there
-Hi, my name is **Nahid Pasha**, welcome to my GitHub profile.  
+## 👋 About Me
+
+Hi, my name is **Nahid Pasha**, welcome to my GitHub profile.
 
 ---
 
-### 🧠 My Skills
-<p align="start">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,git,github&theme=light" />
+## 🛠️ Technical Skills
+
+```text
+Frontend Development
+├── HTML5
+├── CSS3
+├── JavaScript
+├── Tailwind CSS
+└── Version Control (Git & GitHub)
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,git,github&theme=light" alt="Skills" />
 </p>
 
 ---
 
-### 📊 Contributions & Streaks
-<p align="start">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=naidcode&show_icons=true&theme=radical&hide_border=false&title_color=800020&icon_color=800020&text_color=000000&bg_color=FFDAB9" />
-</p>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=naidcode&show_icons=true&theme=default&hide_border=true&title_color=283593&icon_color=5C6BC0&text_color=333333&bg_color=ffffff" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=naidcode&theme=default&hide_border=true&ring=283593&fire=5C6BC0&currStreakLabel=283593" alt="GitHub Streak" />
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p align="start">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidcode&layout=compact&theme=radical&hide_border=false&title_color=800020&text_color=000000&bg_color=FFDAB9" />
-</p>
+## 💻 Most Used Languages
+
+<div align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidcode&layout=compact&theme=default&hide_border=true&title_color=283593&text_color=333333&bg_color=ffffff" alt="Top Languages" />
+</div>
 
 ---
 
-### 👀 Profile Visits
-<p align="start">
-  <img src="https://komarev.com/ghpvc/?username=naidcode&color=800020&style=for-the-badge&label=PROFILE+VISITS&bg=FFDAB9" />
-</p>
+<div align="center">
+  <i>Let's connect and build something amazing together!</i>
+</div>
