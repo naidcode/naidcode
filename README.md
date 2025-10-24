@@ -50,7 +50,7 @@ Frontend Development
 ## 💻 Most Used Languages
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidcode&layout=compact&theme=default&hide_border=true&title_color=283593&text_color=333333&bg_color=ffffff" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naidcode&layout=compact&theme=default&hide_border=true&title_color=283593&text_color=333333&bg_color=ffffff" alt="Top Languages" />
 </div>
 
 ---
