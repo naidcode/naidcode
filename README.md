@@ -49,6 +49,9 @@ Frontend Development
   <a href="https://twitter.com/@Naidcode_Dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X/Twitter" />
   </a>
+   <a href="https://gmail.com/nahidpasha66@gmail.com/naidcode.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  </a>
 </p>
 
 ---
