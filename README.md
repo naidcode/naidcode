@@ -39,18 +39,21 @@ Frontend Development
 ---
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nahid-pasha" target="_blank">
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/nahidpasha01" target="_blank">
+  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://twitter.com/@Naidcode_Dev" target="_blank">
+  <a href="mailto:nahidpasha66@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Personal Gmail" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" alt="X/Twitter" />
   </a>
-   <a href="https://gmail.com/nahidpasha66@gmail.com/naidcode.dev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="gmail" />
+  <a href="mailto:naidcode.dev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Work Gmail" />
   </a>
 </p>
 
