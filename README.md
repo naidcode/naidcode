@@ -40,7 +40,7 @@ Frontend Development
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/Nahid pasha" target="_blank">
+  <a href="https://www.linkedin.com/in/nahid-pasha" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://instagram.com/nahidpasha01" target="_blank">
