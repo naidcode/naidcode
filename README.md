@@ -33,7 +33,7 @@ Frontend Development
 ```
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,git,github,vscode,wordpress&theme=light" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,nodejs,git,github,vscode,wordpress&theme=dark" alt="Skills" />
   <img src="https://cdn.simpleicons.org/elementor/FF7BE5" alt="Elementor" width="48" border-radius="20px" />
 
 </p>
